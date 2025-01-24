@@ -1,10 +1,8 @@
 # digital-cv
 
 Arpan Rai Khetha
-
-<br>Cremation Road, Morcellemont Saint André
-
-</br>+230 52581094
+Cremation Road, Morcellemont Saint André
++230 52581094
 arpankhetha1@gmail.com
 LinkedIn: Arpan Rai Khetha
 Objective: 
