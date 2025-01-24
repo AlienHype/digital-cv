@@ -1,11 +1,13 @@
 # digital-cv
 
 Arpan Rai Khetha
-Cremation Road, Morcellemont Saint André
-+230 52581094
-arpankhetha1@gmail.com
-LinkedIn: Arpan Rai Khetha
-Objective: 
+<br>Cremation Road, Morcellemont Saint André
+<br>+230 52581094
+<br>arpankhetha1@gmail.com
+<br>LinkedIn: Arpan Rai Khetha
+<br>
+<br>
+<br><b>Objective:</b>
 I am a highly motivated and hardworking individual with a passion for design and technology. My passion lies in solving problems through technology, and I thrive in collaborative environments where I can explore new innovations.
 Education:
 Diploma in Information System
