@@ -5,6 +5,7 @@
 - **Phone:** +230 52581094
 - **Email:** [arpankhetha1@gmail.com](mailto:arpankhetha1@gmail.com)
 - **LinkedIn:** [Arpan Rai Khetha](https://www.linkedin.com/in/arpankhetha)
+- **Portfolio:** https://arpankhetha.netlify.app/
 
 ## Objective
 I am a highly motivated and hardworking individual with a passion for design and technology. My focus is on solving problems through technology, and I thrive in collaborative environments where I can explore new innovations.
@@ -15,13 +16,14 @@ I am a highly motivated and hardworking individual with a passion for design and
 
 ## Skills
 - Python programming language
+- Alpine.js
+- Entry-level expertise & experience with Laravel
 - Figma prototyping
 - Firebase Hosting
 - React.js programming language
 - HTML/CSS/JS/SCSS/Blade/Angular
 - Microsoft Access
 - Git/GitHub configuration
-- Entry-level expertise & experience with Laravel
 - SQL Server Database
 - Native-level fluency in English and French (both spoken and written)
 
