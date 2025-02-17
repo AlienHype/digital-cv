@@ -44,6 +44,7 @@ I am a highly motivated and hardworking individual with a passion for design and
 - DigiCup project: Created a platform using HTML5 & Bootstrap called OceanView
 
 ## Certifications
+- Fortinet Certified Associate Cybersecurity
 - Cambridge S.C (Computer Science, Design and Technology, Mathematics, English Language, French, Physics)
 - PRDV003: Word Processing
 - An Introduction to Computers and Computer Systems
